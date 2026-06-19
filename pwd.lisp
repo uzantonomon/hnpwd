@@ -296,9 +296,9 @@
   :bio "Writes software, plays with cars in the dirt and optimises databases.")
 
  (:name "Diogo Ferreira"
-  :site "https://https://diogoferreira.pt/"
-  :feed "https://diogoferreira.pt/rss"
-  :about "https://diogoferreira.pt/about"
+  :site "https://diogoferreira.pt/"
+  :feed "https://diogoferreira.pt/rss/"
+  :about "https://diogoferreira.pt/about/"
   :hnuid "uzantonomon"
   :bio "Writes about linux, sysadmin stuff and general computing.")
 
